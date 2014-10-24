@@ -6,8 +6,10 @@
 # Description:      A simple tornado bittorrent tracker in python
 # Author:           Marc Vieira Cardinal
 # Creation Date:    July 08, 2014
-# Revision Date:    July 22, 2014
+# Revision Date:    August 06 22, 2014
 # **********
+
+# TODO: IP acl?
 
 
 # External imports
